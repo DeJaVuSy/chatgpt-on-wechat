@@ -1,0 +1,19 @@
+{
+  "open_ai_api_base": "https://api.chatanywhere.tech",
+  "open_ai_api_key": "sk-7HL6JKjH1GoIA9IjBWKNnbf7l4S3XIKUGP37v75kCJY5DKJ1",
+  "model": "gpt-3.5-turbo",
+  "proxy": "",
+  "single_chat_prefix": [""],
+  "single_chat_reply_prefix": "[gpt-3.5-turbo] ",
+  "group_chat_prefix": ["@gpt-3.5-turbo"],
+  "group_name_white_list": ["ALL_GROUP"],
+  "group_chat_in_one_session": ["ChatGPT测试群"],
+  "image_create_prefix": ["画", "看", "找"],
+  "conversation_max_tokens": 1000,
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "use_azure_chatgpt": false,
+  "azure_deployment_id": "",
+  "character_desc": "你是基于GPT-3.5 Turbo模型构建的ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持角色扮演和文字冒险等丰富插件。\n输入{trigger_prefix}#help 查看详细指令。"
+}
